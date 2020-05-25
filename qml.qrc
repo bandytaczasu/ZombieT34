@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/T34_preview.png</file>
+        <file>Images/Pole.jpg</file>
+        <file>main.qml</file>
+        <file>Pole.qml</file>
+        <file>Moving.js</file>
+        <file>Movecheck.js</file>
+        <file>Kula.qml</file>
+        <file>Images/expl_01_0002.png</file>
+        <file>Vehicle.qml</file>
+        <file>Lifebar.qml</file>
+        <file>Button.qml</file>
+        <file>Creating.js</file>
+        <file>Images/expl_01_0004.png</file>
+        <file>Images/expl_01_0003.png</file>
+        <file>Depot.qml</file>
+        <file>Images/medkit.png</file>
+    </qresource>
+</RCC>
